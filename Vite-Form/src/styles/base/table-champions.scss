@@ -1,0 +1,35 @@
+
+
+.table-container{
+  justify-content: center;
+}
+.flex-container{
+    display:flex;
+    height: 100%;
+    margin: 0;
+    width: 100%;
+    justify-content: center;
+}
+
+ 
+.classImg{
+    width: 4rem;
+    margin: 2px;
+}
+
+.table-champions{
+    margin:0;
+    justify-content: center;
+    display: flex;
+    margin-top: 20%;
+    border:0px;
+
+    align-items: center;
+}
+
+
+.table-champions-container{
+  margin:50px;
+  padding:2px;
+  align-items: center;
+}

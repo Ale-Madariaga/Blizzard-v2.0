@@ -1,0 +1,6 @@
+
+
+export const START_NEW_FORM = 'START_NEW_FORM';
+export const SUCCES_NEW_FORM = 'SUCCES_NEW_FORM';
+export const ERROR_NEW_FORM = 'ERROR_NEW_FORM';
+export const DEFAULT_NEW_FORM = 'DEFAULT_NEW_FORM';
